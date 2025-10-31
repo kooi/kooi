@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kooi
-- 📫 How to reach me [@chemkooi](https://twitter.com/chemkooi)
 
 <!---
 kooi/kooi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
